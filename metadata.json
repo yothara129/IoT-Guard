@@ -1,0 +1,5 @@
+{
+  "name": "IoT Guard AI",
+  "description": "Autonomous Agentic AI security system for Home IoT devices with real-time threat detection and mitigation.",
+  "requestFramePermissions": []
+}
